@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F55389655%2Fgif-Collection-Two%3Flocale%3Dtr_TR&psig=AOvVaw22RDOhA0p9mI8JY8h3odFW&ust=1739054949380000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCfjdbSsosDFQAAAAAdAAAAABAE)"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.google%2Fproducts%2Fsearch%2Fmaking-it-easier-find-and-share-gifs-google%2F&psig=AOvVaw22RDOhA0p9mI8JY8h3odFW&ust=1739054949380000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCfjdbSsosDFQAAAAAdAAAAABAJ"  />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
