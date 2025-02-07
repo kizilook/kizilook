@@ -1,33 +1,8 @@
-<h2 align="center">Hi 👋 im pat pat</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f9c9c&height=120&section=header"/> 
 
-###
-
-<p align="center">31</p>
-
+[![Cursor's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cursordsc&bg_color=0d1117&color=196464&line=196464&point=196464&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="42" alt="lua logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cursordsc&show_icons=true&count_private=true&hide_border=true&title_color=196464&icon_color=196464&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursordsc&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/buraeks/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="denetim." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=196464&height=120&section=footer"/>
