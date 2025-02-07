@@ -2,9 +2,6 @@
 
 ###
 
-![image](https://github.com/user-attachments/assets/db864f08-81b2-45dc-8ddd-b5474477bac3)
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -32,3 +29,4 @@
 </div>
 
 ###
+![hace color](https://github.com/user-attachments/assets/429b14b3-2300-4a49-9a67-263139679c1e)
