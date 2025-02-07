@@ -4,7 +4,6 @@
 
 <p align="center">31</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="center">
@@ -47,7 +46,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wearus/count.svg?"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
